@@ -24,8 +24,8 @@
     >>look sound smell taste feel  感官动词 “看/听/闻/尝/感觉起来
     >>keep remain / seem appear
 
-## 第二讲 简单句的核心变化（谓语动词的时态/情态/语态）
-### 时态
+## 第二讲 简单句的核心变化（谓语动词的时态/语态/情态/否定）
+### 一. 时态
 + 什么时态
   - 描述动作的时间和状态
 + 怎么表达时态
@@ -35,7 +35,8 @@
 
 #### 1. 一般过去时，*表示完全发生在过去的事*
 + 形式： V.  动词过去式 (did)
-
+>例句
+>> She was busy last week
 #### 2.一般现在时
 + 用法
   + **表示动态的经常性习惯性的事**
@@ -57,6 +58,7 @@
 >例句
 >> He often gets up late
 >> The change is not always voluntary
+>> Peter doesn't play tennis at weekends
 
 #### 3. 一般将来时，表示现在的将来
 + 形式
@@ -81,6 +83,7 @@
 >>He was preparing for university
 >>Brick by brick, six-year-old Alice is building a magical kingdom
 >>A great many candidates will be meeting here at this time tommorrow
+>>I was watching TV when you called me.
 
 #### 6. 现在完成时，站在现在，回头看之前发生的事，是否完成不重要
 + 形式： have/has + done(过去分词)
@@ -89,6 +92,7 @@
 >例句
 >>He has finished his homework    （已完成）
 >>We have learned English since 1998  (不一定全部完成)
+>>We have lived here since 1992
 
 #### 7. 现在完成进行时，现在的之前发生的事，强调正在、持续、反复进行
 + 形式： have/has been doing(现在分词)
@@ -100,10 +104,14 @@
 + 通常上下文伴随着一般过去时一起使用
 >例句
 >>When he got there, she had left.
+>>Before the meeting started,he had finished all the preparation
 
-
-
-
+### 二. 语态（主动语态、被动语态）
+#### 1. 被动语态的用途
++ 
+#### 2. 被动语态的构成
+#### 3. 被动语态与时态结合
+#### 4. 被动语态与情态结合
 
 
 
