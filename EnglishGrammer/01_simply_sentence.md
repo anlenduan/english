@@ -108,13 +108,33 @@
 
 ### 二. 语态（主动语态、被动语态）
 #### 1. 被动语态的用途
-+ 
++ 当不知道动作的发出者时，只能写成被动的
++ 特意强调被谁做的时，被动+by
++ 表达观点看法时，突出客观事实时，最好写成被动
+
 #### 2. 被动语态的构成
++ 形式： be + done（过去分词）
+  + be: 被动的时间
+  + done: 被动的动作
+  + 主语的单复数
+>例句
+>>The environment here was changed.
+
 #### 3. 被动语态与时态结合
+![被动+时态](../img/20240917214321.png)
+>例句
+>>International commerce was therefore dominated by raw materials
+>>This representation has commonly been limited to guest experiences
+
 #### 4. 被动语态与情态结合
++ 情态动词后面动词用原形
+>例句
+>>The environment here must be changed
+>>The environment here can be changed
+>>The environment here may be changed
+>>The environment here should be changed
 
-
-
+### 三. 情态
 
 
 
