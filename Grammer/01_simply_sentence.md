@@ -200,6 +200,7 @@
 
 #### 形容词/副词的三种比较级别
 + **比较级别专门针对形容词/副词，名词和动词没有比较级别**
++ 两者之间用比较级，三者及以上用最高级
 + 最高级
   + 短的形容词/副词，通常+est  --- tallest
   + 长的形容词/副词，通常前面+most  ---  the most impressive
@@ -207,10 +208,11 @@
   
 + 比较级
   + 短的形容词/副词，通常+er  --- taller
-  + 长的形容词/副词，通常前面+more  ---  more effective
+  + 长的形容词/副词，通常前面+more  ---  more effective [可选的than]
   > a playful stimulus was far more effective than an instructional one.
 + 原级
-  + 
+  + as 形容词/副词 as 名词
+  > some might survive as long as 10 million years
 
 ### 介词短语
 + 介词 prep.
