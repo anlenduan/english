@@ -176,6 +176,7 @@
 
 ## 第三讲 简单句的扩展（形容词/副词/介词短语）
 ### 形容词、副词
++ 英语有非常时确的词性界限，不同词性的单词在句子中只能用在特定的位置 
 + 形容词修改名词
 + 副词主要修饰动词，可以修饰除名词外的所有词，如动词、形容词、副词等
 ![扩展](../img/20240919213846.png)
@@ -185,13 +186,31 @@
 #### 形容词/副词的用法
 + 形容词的用法 adj.
   + 用法：修饰名词
-  + 放在名词旁边,直接修饰
-  + 在主系表结构中，修改名词
+  + 放在名词旁边,直接修饰     ，做定语
+  + 在主系表结构中，修改名词   ，做表语
   > It is a social and historical phenomenon
   > In other words, throwbacks are possible
 
-#### 形容词/副词的比较级别
++ 副词的用法  adv.
+  + 用法：修改除名词以外的动词、形容词、副词、句子等
+  + 通常形容词加ly，变成副词，特列的除外
+  > Nevertheless（尽管，副词）, the council unanimously rejected the plan
+  > Smell...is a highly elusive phenomenon  副词修饰形容词
+  > We worked very hard to win the first place  副词修饰动词、副词
 
+#### 形容词/副词的三种比较级别
++ **比较级别专门针对形容词/副词，名词和动词没有比较级别**
++ 最高级
+  + 短的形容词/副词，通常+est  --- tallest
+  + 长的形容词/副词，通常前面+most  ---  the most impressive
+  > But perhaps the most impressive features are the intricate decorative sculptures
+  
++ 比较级
+  + 短的形容词/副词，通常+er  --- taller
+  + 长的形容词/副词，通常前面+more  ---  more effective
+  > a playful stimulus was far more effective than an instructional one.
++ 原级
+  + 
 
 ### 介词短语
 + 介词 prep.
