@@ -155,6 +155,66 @@
 
 
 ## 第三讲 简单句的扩展（形容词/副词/介词短语）
+
+### 介词短语
++ 介词 prep.
+  + in on at by off from with without about
++ 形式：介词 + 名词/代词/doing = 介词短语   介宾结构
++ 介词短语是句子的扩展或补充，永远是非核心
+
+#### 表示地点的介词
+|介词|含义|说明|
+|:---:|:---|:--|
+|at/in|在...地点/在...里面|at表示在某个点,in表示在里面|
+|on,above,over/under,below|在...上面/下面|on在表示有接触的上面，above、over表示在上方，over表示在垂直上方|
+|in front of/behind|在...之前/之后|
+|near,by,beside|在...旁边|
+|between,among|在...之间|between在两者之间，among在三者及以上之间|
+|around|在...周围|
+|into/out of|进入...里面/从...出去|in是静态的，into是动态的|
+|onto/off|到...上面/脱离...|on是静态的，onto是动态的|
+|across,through/past|穿过.../经过...|across在表面上方过去，through在里面过去，past从旁边经过没有接触|
+|along|沿着...|
+|from/to|来自.../朝着...去|
+
+> at表示在某个点，一维的空间
+> on表示在平面的上方，二维的空间
+> in表示在立体的里面，三维的空间
+
+#### 表示时间的介词
+|介词|含义|说明|
+|:---:|:---|:--|
+|at/on/in|在...时间点/时间上/时间内|in时间点, on某一天，in时间范围（年月周等）|
+|before/after|在...时间之前/之后|
+|from,since|自从...时间|
+|by,until|截止到(直到)...时间|
+|for|持续...时间|
+|during|在...期间|during this week|
+
+#### 其它用法的介词
+|介词|含义|说明|
+|:---:|:---|:--|
+|of|...的...（表示属性）|a gril of seventeen 17岁的女孩, A of B = B's A |
+|about|关于...|
+|with/without|伴随着有.../没有...|
+|for|为了...（表示目的）|I do it for you|
+||因为...（表示原因）|for this reason|
+||对于...（表示对象）|for you English is very important|
+|by|通过...方式或方法|by bike. We can win the competition by working hard|
+||被...做（被动语态+by+动作的发出者）||
+||相差了...(表示变化的差额)|the population increased by ten percent |
+|as|作为...|as a teacher I should work hard to teach you better and better|
+||像...一样,如同...|I have the same habits as you|
+|like|像...一样|like this.  you look like your farther|
+|despite|尽管...|although是连词，despite是介词|
+
+> A of B of C, The window of the door of the classroom 教室的门的窗户
+
+
+
+
+
+
 ## 第四讲 简单句的提升（非谓语动词）
 ## 第五讲 简单句的综合运用
 
