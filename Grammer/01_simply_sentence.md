@@ -135,26 +135,63 @@
 >>The environment here should be changed
 
 ### 三. 情态
++ 情态动词需要依附在动作上
++ **情态动词+动词原形**
 
+#### must
++ 表示命令，必须怎么样
++ 表示推测，肯定会怎么样
+> we must finish our homework on time
 
+#### can could
++ could可以作为can的过去时使用
++ could可以表示比can更委婉的语气
++ 表示能力，能够怎么样
++ 表示可能，可以怎么样
+> Could you help me?
 
+#### will would
++ would可以表示will的过去时
++ would可以表示比will更委婉的语气
++ 表示将要怎么样
++ 表示意愿，愿意做某事
 
+#### shall should
++ shall表示将要怎么样，只能接在第一人称后
++ should表示应该
 
+#### may might
++ 表示可能、可以怎么样
 
+#### 其它情态动词
++ dare 胆敢怎么样
++ have to do sth 必须做某事
++ ought to do sth 应该做鞋带
 
-
-
-
-
-
-
-
-
-
-
-
+> You must be open to experiencing negative emotions == open是形容语，开放的
+> The answer may lie in the womb
+> However,preservation can bring a language back from the dead
+> Those sick people should seek help from doctors
+> Will you marry me?   你愿意嫁给我吗？
 
 ## 第三讲 简单句的扩展（形容词/副词/介词短语）
+### 形容词、副词
++ 形容词修改名词
++ 副词主要修饰动词，可以修饰除名词外的所有词，如动词、形容词、副词等
+![扩展](../img/20240919213846.png)
++ **先有核心，再有扩展，是典型的写句子的过程**
++ **去修饰去扩展，找到句子的核心，就读句子的过程**
+
+#### 形容词/副词的用法
++ 形容词的用法 adj.
+  + 用法：修饰名词
+  + 放在名词旁边,直接修饰
+  + 在主系表结构中，修改名词
+  > It is a social and historical phenomenon
+  > In other words, throwbacks are possible
+
+#### 形容词/副词的比较级别
+
 
 ### 介词短语
 + 介词 prep.
@@ -208,7 +245,10 @@
 |like|像...一样|like this.  you look like your farther|
 |despite|尽管...|although是连词，despite是介词|
 
+> 先去掉介语短语，然后找出核心
 > A of B of C, The window of the door of the classroom 教室的门的窗户
+> The impact of fun as a motivating factor at work has also been explored
+> This advantage may be rooted in the skill of focussing on information about the new language
 
 
 
