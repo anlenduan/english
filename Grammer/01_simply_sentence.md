@@ -76,7 +76,7 @@
 
 #### 5.过去/现在/将来进行时，强调正在、持续进行的事
 + 形式
-  + am/is/are + doing 现在进行时
+  + am/is/are + doing 现在进行时 
   + was/were + doing 过去进行时
   + will be + doing 将来进行时
 >例句
@@ -272,6 +272,47 @@
 > This advantage may be rooted in the skill of focussing on information about the new language
 
 ## 第四讲 简单句的提升（非谓语动词）
++ 谓语动词：不作谓语的动词
++ 当句子中已经有谓语动词时，要增中其它动作时，使用非谓语动词
++ 非谓语动词有  
+  + doing (现在分词)、  
+  + done (过去分词)、  
+  + to do 
++ doing、done前面没有动词期一起搭配使用，即非谓语动词
++ 非谓语动词的用途
+  + 相当于名词，作主/宾/表语（句子的核心）
+  + 修饰名词/句子，作定语/状语（句子的扩展）
+
+### 非谓语动词当名词，作主/宾/表语  
++ 只有doing,to do可以作为名词使用
++ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
